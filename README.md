@@ -4,3 +4,6 @@ Dark XCode theme based on [Visual Assist(https://www.wholetomato.com/) (and [the
 ## Installing
 1. Copy the **Visual Assist X.xcolortheme** into **~/Library/Developer/Xcode/UserData/FontAndColorThemes**
 2. XCode -> Preferences -> Fonts & Colors -> Select the theme from the list
+
+## Screenshot
+![image](https://raw.githubusercontent.com/azurys94/visual-assist-theme-xcode/master/screenshot.png)
